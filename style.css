@@ -1,0 +1,43 @@
+baody{
+    border-color: white;
+}
+nav{
+  padding : 0px 150px 0px 150px;  
+}
+.main{
+   background-color : #243A51;
+}
+.navbar{
+  color : #fff;
+}
+.main-body{  
+  max-width:1024px;
+  margin:0 auto; 
+  font-size : 20px;
+  padding-top : 80px;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+  margin : 15px 0px 15px 0px;
+}
+.navbar-nav > a:hover {
+	color: #555;
+	background-color: #e7e7e7;
+}
+.brand-logo{
+  margin : -6px 0px 0px 0px;
+}
+.profilepic{
+	border-radius: 50%;
+}
+.c{
+margin-top : 40px;
+    border-color:white;
+}
+#contato{
+  min-height:70px;
+  padding-top: 20px;
+  margin-top: 40px;
+  color: #fff  !important;
+}
+
